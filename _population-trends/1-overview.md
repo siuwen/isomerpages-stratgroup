@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 permalink: /population-trends/overview/
-breadcrumb: Population Trends Overview
+breadcrumb: Population Trends/Population Overview
 title: Population Overview
 collection_name: population-trends
 ---
